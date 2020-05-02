@@ -1,0 +1,29 @@
+#RISE 2020.4.4.1
+Akash Kumar Gupta
+
+--------------------------------------
+Description:
+  Software developers specially for student who are learning and testing their projects they have to spend
+  lots of time in set up all the environment and do manually one by one. It sometimes discourage them a lot.
+  Thats why I created this project with the help of docker and create a infrastructure. So that any one can
+  set up their environmnet in just one step via use of python program "project_tui_handler.py". This is 
+  interactive program in python which allows users to do all the setup in interactive manner without knowing
+  the commands and background details. Use it and upgrade it. 
+--------------------------------------
+
+Finally, I created my Docker Project with world record holder and world best mentor Mr. Vimal Daga Sir.
+
+In this project, I use multi-tier architecture in docker.
+
+ -> Use of "wordpress:5.1.1-php7.3-apache" image for launch our server and website
+ -> Use of "mysql:5.7" image for as backend storage database
+ -> Create "docker-compose.yml" file to integrate docker infrastructure with the use of docker-compose
+ -> Create "project_tui_handler.py" for developers and user so that any one can easily use my project
+
+In Repository I paste some screenshots to display the working of my project.
+
+I like to thanks Vimal Sir to guide me to create this interactive and cool project.
+
+#thanksVimalSir
+#iiec_rise
+#IIEC_RISE
